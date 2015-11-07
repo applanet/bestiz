@@ -1,344 +1,347 @@
-[
-  {
-    "name": "게잡의봄",
-    "sub_domain": "bestjd",
-    "boards": [
-      {
-        "id": "jb1312",
-        "name": "게잡의봄"
-      },
-      {
-        "id": "gbw",
-        "name": "월드컵"
-      },
-      {
-        "id": "gbbday",
-        "name": "생축"
-      },
-      {
-        "id": "gjbnm",
-        "name": "이벤트"
-      },
-      {
-        "id": "gjbtp",
-        "name": "투표"
-      },
-      {
-        "id": "gbyd",
-        "name": "양도"
-      },
-      {
-        "id": "jbnabi",
-        "name": "봄나비"
-      },
-      {
-        "id": "jbnabi2",
-        "name": "요청"
-      }
-    ]
-  },
-  {
-    "name": "게잡발코니",
-    "sub_domain": "bestjd",
-    "boards": [
-      {
-        "id": "gjbal",
-        "name": "게잡발코니"
-      }
-    ]
-  },
-  {
-    "name": "게잡알콩",
-    "sub_domain": "bestjd",
-    "boards": [
-      {
-        "id": "gjak",
-        "name": "게잡알콩"
-      }
-    ]
-  },
-  {
-    "name": "게잡해연",
-    "sub_domain": "bestjd",
-    "boards": [
-      {
-        "name": "게잡해연",
-        "id": "gjhd"
-      }
-    ]
-  },
-  {
-    "name": "드라마방",
-    "sub_domain": "sky",
-    "boards": [
-      {
-        "id": "drb13",
-        "name": "드라마방"
-      }
-    ]
-  },
-  {
-    "name": "영화감상",
-    "sub_domain": "sky",
-    "boards": [
-      {
-        "id": "movieb",
-        "name": "영화감상"
-      }
-    ]
-  },
-  {
-    "name": "게잡공부방",
-    "sub_domain": "bestjd",
-    "boards": [
-      {
-        "id": "gjkb",
-        "name": "게잡공부방"
-      }
-    ]
-  },
-  {
-    "name": "게잡호이",
-    "sub_domain": "bestjd",
-    "boards": [
-      {
-        "id": "gjhi",
-        "name": "게잡호이"
-      },
-      {
-        "id": "gjhw",
-        "name": "월드컵"
-      }
-    ]
-  },
-  {
-    "name": "게잡의여름",
-    "sub_domain": "bestjd",
-    "boards": [
-      {
-        "id": "jy0807",
-        "name": "게잡의여름"
-      },
-      {
-        "id": "gyw",
-        "name": "월드컵"
-      },
-      {
-        "id": "jybday",
-        "name": "생축"
-      },
-      {
-        "id": "gjyin",
-        "name": "이벤트"
-      },
-      {
-        "id": "gjytp",
-        "name": "투표"
-      },
-      {
-        "id": "gyyd",
-        "name": "양도"
-      },
-      {
-        "id": "jyhb",
-        "name": "해변가"
-      },
-      {
-        "id": "jyhb2",
-        "name": "요청"
-      }
-    ]
-  },
-  {
-    "name": "게천잡담",
-    "sub_domain": "bestjd",
-    "boards": [
-      {
-        "id": "jd1503",
-        "name": "게천잡담"
-      }
-    ]
-  },
-  {
-    "name": "게스트천국",
-    "sub_domain": "hgc",
-    "boards": [
-      {
-        "id": "ghm2",
-        "name": "게스트천국"
-      }
-    ]
-  },
-  {
-    "name": "게천뮤직",
-    "sub_domain": "bestgm",
-    "boards": [
-      {
-        "id": "gms",
-        "name": "게천뮤직"
-      }
-    ]
-  },
-  {
-    "name": "회원노래",
-    "sub_domain": "bestgm",
-    "boards": [
-      {
-        "id": "sing",
-        "name": "회원노래"
-      }
-    ]
-  },
-  {
-    "name": "게잡직딩반",
-    "sub_domain": "bestjd",
-    "boards": [
-      {
-        "id": "gjdb",
-        "name": "게잡직딩반"
-      }
-    ]
-  },
-  {
-    "name": "게잡멋쟁이",
-    "sub_domain": "bestjd",
-    "boards": [
-      {
-        "id": "gjmt2",
-        "name": "게잡멋쟁이"
-      }
-    ]
-  },
-  {
-    "name": "게잡스포츠",
-    "sub_domain": "bestjd",
-    "boards": [
-      {
-        "id": "jdsts2",
-        "name": "게잡스포츠"
-      }
-    ]
-  },
-  {
-    "name": "게잡 JPStar",
-    "sub_domain": "bestjd",
-    "boards": [
-      {
-        "id": "gjp2",
-        "name": "게잡 JPStar"
-      }
-    ]
-  },
-  {
-    "name": "게잡아이돌",
-    "sub_domain": "bestjd",
-    "boards": [
-      {
-        "id": "jdad2",
-        "name": "게잡아이돌"
-      },
-      {
-        "id": "gdlw",
-        "name": "월드컵"
-      },
-      {
-        "id": "jdadbday",
-        "name": "생축"
-      },
-      {
-        "id": "gjin",
-        "name": "이벤트"
-      },
-      {
-        "id": "gjitkj",
-        "name": "티좌"
-      },
-      {
-        "id": "gjdyd",
-        "name": "양도"
-      },
-      {
-        "id": "gjitp",
-        "name": "투표"
-      },
-      {
-        "id": "gdldl",
-        "name": "돌맹이"
-      },
-      {
-        "id": "gjdll2",
-        "name": "요청"
-      }
-    ]
-  },
-  {
-    "name": "연예잡담",
-    "sub_domain": "evon",
-    "boards": [
-      {
-        "id": "yjm",
-        "name": "연예잡담"
-      },
-      {
-        "id": "yjoin",
-        "name": "인사글"
-      },
-      {
-        "id": "yjsf",
-        "name": "연잡별빛"
-      },
-      {
-        "id": "yjsf2",
-        "name": "요청"
-      },
-      {
-        "id": "yjm2",
-        "name": "연잡햇빛"
-      },
-      {
-        "id": "yjyd",
-        "name": "양도"
-      },
-      {
-        "id": "2AM",
-        "name": "2AM"
-      },
-      {
-        "id": "mbl",
-        "name": "엠블랙"
-      },
-      {
-        "id": "shinee",
-        "name": "샤이니"
-      },
-      {
-        "id": "exo",
-        "name": "EXO"
-      },
-      {
-        "id": "inf",
-        "name": "인피니트"
-      }
-    ]
-  },
-  {
-    "name": "게잡의기묘",
-    "sub_domain": "bestjd",
-    "boards": [
-      {
-        "id": "gjkm",
-        "name": "게잡의기묘"
-      }
-    ]
-  },
-  {
-    "name": "게잡오락실",
-    "sub_domain": "bestjd",
-    "boards": [
-      {
-        "id": "ggn",
-        "name": "게잡오락실"
-      }
-    ]
-  }
-]
+{
+	"version": 1,
+	"categories": [
+		{
+			"name": "게잡의봄",
+			"sub_domain": "bestjd",
+			"boards": [
+				{
+					"id": "jb1312",
+					"name": "게잡의봄"
+				},
+				{
+					"id": "gbw",
+					"name": "월드컵"
+				},
+				{
+					"id": "gbbday",
+					"name": "생축"
+				},
+				{
+					"id": "gjbnm",
+					"name": "이벤트"
+				},
+				{
+					"id": "gjbtp",
+					"name": "투표"
+				},
+				{
+					"id": "gbyd",
+					"name": "양도"
+				},
+				{
+					"id": "jbnabi",
+					"name": "봄나비"
+				},
+				{
+					"id": "jbnabi2",
+					"name": "요청"
+				}
+			]
+		},
+		{
+			"name": "게잡발코니",
+			"sub_domain": "bestjd",
+			"boards": [
+				{
+					"id": "gjbal",
+					"name": "게잡발코니"
+				}
+			]
+		},
+		{
+			"name": "게잡알콩",
+			"sub_domain": "bestjd",
+			"boards": [
+				{
+					"id": "gjak",
+					"name": "게잡알콩"
+				}
+			]
+		},
+		{
+			"name": "게잡해연",
+			"sub_domain": "bestjd",
+			"boards": [
+				{
+					"name": "게잡해연",
+					"id": "gjhd"
+				}
+			]
+		},
+		{
+			"name": "드라마방",
+			"sub_domain": "sky",
+			"boards": [
+				{
+					"id": "drb13",
+					"name": "드라마방"
+				}
+			]
+		},
+		{
+			"name": "영화감상",
+			"sub_domain": "sky",
+			"boards": [
+				{
+					"id": "movieb",
+					"name": "영화감상"
+				}
+			]
+		},
+		{
+			"name": "게잡공부방",
+			"sub_domain": "bestjd",
+			"boards": [
+				{
+					"id": "gjkb",
+					"name": "게잡공부방"
+				}
+			]
+		},
+		{
+			"name": "게잡호이",
+			"sub_domain": "bestjd",
+			"boards": [
+				{
+					"id": "gjhi",
+					"name": "게잡호이"
+				},
+				{
+					"id": "gjhw",
+					"name": "월드컵"
+				}
+			]
+		},
+		{
+			"name": "게잡의여름",
+			"sub_domain": "bestjd",
+			"boards": [
+				{
+					"id": "jy0807",
+					"name": "게잡의여름"
+				},
+				{
+					"id": "gyw",
+					"name": "월드컵"
+				},
+				{
+					"id": "jybday",
+					"name": "생축"
+				},
+				{
+					"id": "gjyin",
+					"name": "이벤트"
+				},
+				{
+					"id": "gjytp",
+					"name": "투표"
+				},
+				{
+					"id": "gyyd",
+					"name": "양도"
+				},
+				{
+					"id": "jyhb",
+					"name": "해변가"
+				},
+				{
+					"id": "jyhb2",
+					"name": "요청"
+				}
+			]
+		},
+		{
+			"name": "게천잡담",
+			"sub_domain": "bestjd",
+			"boards": [
+				{
+					"id": "jd1503",
+					"name": "게천잡담"
+				}
+			]
+		},
+		{
+			"name": "게스트천국",
+			"sub_domain": "hgc",
+			"boards": [
+				{
+					"id": "ghm2",
+					"name": "게스트천국"
+				}
+			]
+		},
+		{
+			"name": "게천뮤직",
+			"sub_domain": "bestgm",
+			"boards": [
+				{
+					"id": "gms",
+					"name": "게천뮤직"
+				}
+			]
+		},
+		{
+			"name": "회원노래",
+			"sub_domain": "bestgm",
+			"boards": [
+				{
+					"id": "sing",
+					"name": "회원노래"
+				}
+			]
+		},
+		{
+			"name": "게잡직딩반",
+			"sub_domain": "bestjd",
+			"boards": [
+				{
+					"id": "gjdb",
+					"name": "게잡직딩반"
+				}
+			]
+		},
+		{
+			"name": "게잡멋쟁이",
+			"sub_domain": "bestjd",
+			"boards": [
+				{
+					"id": "gjmt2",
+					"name": "게잡멋쟁이"
+				}
+			]
+		},
+		{
+			"name": "게잡스포츠",
+			"sub_domain": "bestjd",
+			"boards": [
+				{
+					"id": "jdsts2",
+					"name": "게잡스포츠"
+				}
+			]
+		},
+		{
+			"name": "게잡 JPStar",
+			"sub_domain": "bestjd",
+			"boards": [
+				{
+					"id": "gjp2",
+					"name": "게잡 JPStar"
+				}
+			]
+		},
+		{
+			"name": "게잡아이돌",
+			"sub_domain": "bestjd",
+			"boards": [
+				{
+					"id": "jdad2",
+					"name": "게잡아이돌"
+				},
+				{
+					"id": "gdlw",
+					"name": "월드컵"
+				},
+				{
+					"id": "jdadbday",
+					"name": "생축"
+				},
+				{
+					"id": "gjin",
+					"name": "이벤트"
+				},
+				{
+					"id": "gjitkj",
+					"name": "티좌"
+				},
+				{
+					"id": "gjdyd",
+					"name": "양도"
+				},
+				{
+					"id": "gjitp",
+					"name": "투표"
+				},
+				{
+					"id": "gdldl",
+					"name": "돌맹이"
+				},
+				{
+					"id": "gjdll2",
+					"name": "요청"
+				}
+			]
+		},
+		{
+			"name": "연예잡담",
+			"sub_domain": "evon",
+			"boards": [
+				{
+					"id": "yjm",
+					"name": "연예잡담"
+				},
+				{
+					"id": "yjoin",
+					"name": "인사글"
+				},
+				{
+					"id": "yjsf",
+					"name": "연잡별빛"
+				},
+				{
+					"id": "yjsf2",
+					"name": "요청"
+				},
+				{
+					"id": "yjm2",
+					"name": "연잡햇빛"
+				},
+				{
+					"id": "yjyd",
+					"name": "양도"
+				},
+				{
+					"id": "2AM",
+					"name": "2AM"
+				},
+				{
+					"id": "mbl",
+					"name": "엠블랙"
+				},
+				{
+					"id": "shinee",
+					"name": "샤이니"
+				},
+				{
+					"id": "exo",
+					"name": "EXO"
+				},
+				{
+					"id": "inf",
+					"name": "인피니트"
+				}
+			]
+		},
+		{
+			"name": "게잡의기묘",
+			"sub_domain": "bestjd",
+			"boards": [
+				{
+					"id": "gjkm",
+					"name": "게잡의기묘"
+				}
+			]
+		},
+		{
+			"name": "게잡오락실",
+			"sub_domain": "bestjd",
+			"boards": [
+				{
+					"id": "ggn",
+					"name": "게잡오락실"
+				}
+			]
+		}
+	]
+}
