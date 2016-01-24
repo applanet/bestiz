@@ -18,15 +18,15 @@
 		},
 		{
 			"id": 4,
-			"name": "드영"
+			"name": "드영",
 			"sub_domain": "sky"
 		},
 		{
 			"id": 5,
-			"name": "연예"
+			"name": "연예",
 			"sub_domain": "evon"
 		}
-		]
+		],
 	"categories": [
 		{
 			"name": "게잡의봄",
