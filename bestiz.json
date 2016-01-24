@@ -6,7 +6,7 @@
 			"sub_domain": "bestjd",
 			"boards": [
 				{
-					"id": "jb1312",
+					"id": "jb1312b",
 					"name": "게잡의봄"
 				},
 				{
@@ -166,7 +166,7 @@
 			"sub_domain": "hgc",
 			"boards": [
 				{
-					"id": "ghm2",
+					"id": "ghm2b",
 					"name": "게스트천국"
 				}
 			]
@@ -176,7 +176,7 @@
 			"sub_domain": "bestgm",
 			"boards": [
 				{
-					"id": "gms",
+					"id": "gmsb",
 					"name": "게천뮤직"
 				}
 			]
@@ -236,7 +236,7 @@
 			"sub_domain": "bestjd",
 			"boards": [
 				{
-					"id": "jdad2",
+					"id": "jdad2b",
 					"name": "게잡아이돌"
 				},
 				{
@@ -294,7 +294,7 @@
 					"name": "요청"
 				},
 				{
-					"id": "yjm2",
+					"id": "yjm2b",
 					"name": "연잡햇빛"
 				},
 				{
