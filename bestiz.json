@@ -1,9 +1,36 @@
 {
 	"version": 1,
+	"servers": [
+		{
+			"id": 1,
+			"name": "게스트천국",
+			"sub_domain": "hgc"
+		}
+		{
+			"id": 2,
+			"name": "게천잡담",
+			"sub_domain": "bestjd"
+		},
+		{
+			"id": 3,
+			"name": "게천뮤직",
+			"sub_domain": "bestgm"
+		},
+		{
+			"id": 4,
+			"name": "드영"
+			"sub_domain": "sky"
+		},
+		{
+			"id": 5,
+			"name": "연예"
+			"sub_domain": "evon"
+		}
+		]
 	"categories": [
 		{
 			"name": "게잡의봄",
-			"sub_domain": "bestjd",
+			"server": 2,
 			"boards": [
 				{
 					"id": "jb1312b",
@@ -41,7 +68,7 @@
 		},
 		{
 			"name": "게잡발코니",
-			"sub_domain": "bestjd",
+			"server": 2,
 			"boards": [
 				{
 					"id": "gjbal",
@@ -51,7 +78,7 @@
 		},
 		{
 			"name": "게잡알콩",
-			"sub_domain": "bestjd",
+			"server": 2,
 			"boards": [
 				{
 					"id": "gjak",
@@ -61,7 +88,7 @@
 		},
 		{
 			"name": "게잡해연",
-			"sub_domain": "bestjd",
+			"server": 2,
 			"boards": [
 				{
 					"name": "게잡해연",
@@ -71,7 +98,7 @@
 		},
 		{
 			"name": "드라마방",
-			"sub_domain": "sky",
+			"server": 4,
 			"boards": [
 				{
 					"id": "drb13",
@@ -81,7 +108,7 @@
 		},
 		{
 			"name": "영화감상",
-			"sub_domain": "sky",
+			"server": 4,
 			"boards": [
 				{
 					"id": "movieb",
@@ -91,7 +118,7 @@
 		},
 		{
 			"name": "게잡공부방",
-			"sub_domain": "bestjd",
+			"server": 2,
 			"boards": [
 				{
 					"id": "gjkb",
@@ -101,7 +128,7 @@
 		},
 		{
 			"name": "게잡호이",
-			"sub_domain": "bestjd",
+			"server": 2,
 			"boards": [
 				{
 					"id": "gjhi",
@@ -115,7 +142,7 @@
 		},
 		{
 			"name": "게잡의여름",
-			"sub_domain": "bestjd",
+			"server": 2,
 			"boards": [
 				{
 					"id": "jy0807",
@@ -153,7 +180,7 @@
 		},
 		{
 			"name": "게천잡담",
-			"sub_domain": "bestjd",
+			"server": 2,
 			"boards": [
 				{
 					"id": "jd1503",
@@ -163,7 +190,7 @@
 		},
 		{
 			"name": "게스트천국",
-			"sub_domain": "hgc",
+			"server": 1,
 			"boards": [
 				{
 					"id": "ghm2b",
@@ -173,7 +200,7 @@
 		},
 		{
 			"name": "게천뮤직",
-			"sub_domain": "bestgm",
+			"server": 3,
 			"boards": [
 				{
 					"id": "gmsb",
@@ -183,7 +210,7 @@
 		},
 		{
 			"name": "회원노래",
-			"sub_domain": "bestgm",
+			"server": 3,
 			"boards": [
 				{
 					"id": "sing",
@@ -193,7 +220,7 @@
 		},
 		{
 			"name": "게잡직딩반",
-			"sub_domain": "bestjd",
+			"server": 2,
 			"boards": [
 				{
 					"id": "gjdb",
@@ -203,7 +230,7 @@
 		},
 		{
 			"name": "게잡멋쟁이",
-			"sub_domain": "bestjd",
+			"server": 2,
 			"boards": [
 				{
 					"id": "gjmt2",
@@ -213,7 +240,7 @@
 		},
 		{
 			"name": "게잡스포츠",
-			"sub_domain": "bestjd",
+			"server": 2,
 			"boards": [
 				{
 					"id": "jdsts2",
@@ -223,7 +250,7 @@
 		},
 		{
 			"name": "게잡 JPStar",
-			"sub_domain": "bestjd",
+			"server": 2,
 			"boards": [
 				{
 					"id": "gjp2",
@@ -233,7 +260,7 @@
 		},
 		{
 			"name": "게잡아이돌",
-			"sub_domain": "bestjd",
+			"server": 2,
 			"boards": [
 				{
 					"id": "jdad2b",
@@ -275,7 +302,7 @@
 		},
 		{
 			"name": "연예잡담",
-			"sub_domain": "evon",
+			"server": 5,
 			"boards": [
 				{
 					"id": "yjm",
@@ -325,7 +352,7 @@
 		},
 		{
 			"name": "게잡의기묘",
-			"sub_domain": "bestjd",
+			"server": 2,
 			"boards": [
 				{
 					"id": "gjkm",
@@ -335,7 +362,7 @@
 		},
 		{
 			"name": "게잡오락실",
-			"sub_domain": "bestjd",
+			"server": 2,
 			"boards": [
 				{
 					"id": "ggn",
