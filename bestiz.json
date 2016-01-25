@@ -29,6 +29,16 @@
 		],
 	"categories": [
 		{
+			"name": "게스트천국",
+			"server": 1,
+			"boards": [
+				{
+					"id": "ghm2b",
+					"name": "게스트천국"
+				}
+			]
+		},
+		{
 			"name": "게잡의봄",
 			"server": 2,
 			"boards": [
@@ -185,16 +195,6 @@
 				{
 					"id": "jd1503",
 					"name": "게천잡담"
-				}
-			]
-		},
-		{
-			"name": "게스트천국",
-			"server": 1,
-			"boards": [
-				{
-					"id": "ghm2b",
-					"name": "게스트천국"
 				}
 			]
 		},
