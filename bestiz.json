@@ -34,7 +34,13 @@
 			"boards": [
 				{
 					"id": "ghm2b",
-					"name": "게스트천국"
+					"name": "게스트천국",
+					"categories": [
+						"연예&방송",
+						"Star이미지",
+						"유머&엽기",
+						"기타"
+						]
 				}
 			]
 		},
@@ -44,7 +50,11 @@
 			"boards": [
 				{
 					"id": "jd1512b",
-					"name": "게천잡담"
+					"name": "게천잡담",
+					"categories": [
+						"잡담",
+						"기타"
+						]
 				}
 			]
 		},
@@ -54,35 +64,60 @@
 			"boards": [
 				{
 					"id": "jb1312b",
-					"name": "게잡의봄"
+					"name": "게잡의봄",
+					"categories": [
+						"잡담",
+						"기타"
+						]
 				},
 				{
 					"id": "gbw",
-					"name": "월드컵"
+					"name": "월드컵",
+					"categories": [
+						"월드컵"
+						]
 				},
 				{
 					"id": "gbbday",
-					"name": "생축"
+					"name": "생축",
+					"cateogires": [
+						"생일축하"
+						]
 				},
 				{
 					"id": "gjbnm",
-					"name": "이벤트"
+					"name": "이벤트",
+					"categories": [
+						"이벤트"
+						]
 				},
 				{
 					"id": "gjbtp",
-					"name": "투표"
+					"name": "투표",
+					"categories": [
+						"게봄투표"
+						]
 				},
 				{
 					"id": "gbyd",
-					"name": "양도"
+					"name": "양도",
+					"categories":[
+						"양도"
+						]
 				},
 				{
 					"id": "jbnabi",
-					"name": "봄나비"
+					"name": "봄나비",
+					"categories":[
+						"나비"
+						]
 				},
 				{
 					"id": "jbnabi2",
-					"name": "요청"
+					"name": "요청",
+					"categories":[
+						"요청"
+						]
 				}
 			]
 		},
@@ -92,7 +127,10 @@
 			"boards": [
 				{
 					"id": "gjbal",
-					"name": "게잡발코니"
+					"name": "게잡발코니",
+					"categories":[
+						"발코니"
+						]
 				}
 			]
 		},
@@ -102,7 +140,11 @@
 			"boards": [
 				{
 					"id": "gjak",
-					"name": "게잡알콩"
+					"name": "게잡알콩",
+					"categories":[
+						"잡담",
+						"기타"
+						]
 				}
 			]
 		},
@@ -112,7 +154,11 @@
 			"boards": [
 				{
 					"name": "게잡해연",
-					"id": "gjhd"
+					"id": "gjhd",
+					"categories":[
+						"잡담",
+						"기타"
+						]
 				}
 			]
 		},
@@ -122,7 +168,11 @@
 			"boards": [
 				{
 					"id": "drb13",
-					"name": "드라마방"
+					"name": "드라마방",
+					"categories":[
+						"잡담",
+						"기타"
+						]
 				}
 			]
 		},
@@ -132,7 +182,11 @@
 			"boards": [
 				{
 					"id": "movieb",
-					"name": "영화감상"
+					"name": "영화감상",
+					"categories":[
+						"잡담",
+						"기타"
+						]
 				}
 			]
 		},
@@ -142,7 +196,11 @@
 			"boards": [
 				{
 					"id": "gjkb",
-					"name": "게잡공부방"
+					"name": "게잡공부방",
+					"categories":[
+						"잡담",
+						"기타"
+						]
 				}
 			]
 		},
@@ -152,11 +210,18 @@
 			"boards": [
 				{
 					"id": "gjhi",
-					"name": "게잡호이"
+					"name": "게잡호이",
+					"categories":[
+						"잡담",
+						"기타"
+						]
 				},
 				{
 					"id": "gjhw",
-					"name": "월드컵"
+					"name": "월드컵",
+					"categories":[
+						"월드컵"
+						]
 				}
 			]
 		},
@@ -166,35 +231,60 @@
 			"boards": [
 				{
 					"id": "jy0807",
-					"name": "게잡의여름"
+					"name": "게잡의여름",
+					"categories":[
+						"잡담",
+						"기타"
+						]
 				},
 				{
 					"id": "gyw",
-					"name": "월드컵"
+					"name": "월드컵",
+					"categories":[
+						"월드컵"
+						]
 				},
 				{
 					"id": "jybday",
-					"name": "생축"
+					"name": "생축",
+					"categories":[
+						"생일축하"
+						]
 				},
 				{
 					"id": "gjyin",
-					"name": "이벤트"
+					"name": "이벤트",
+					"categories":[
+						"이벤트"
+						]
 				},
 				{
 					"id": "gjytp",
-					"name": "투표"
+					"name": "투표",
+					"categories":[
+						"게여투표"
+						]
 				},
 				{
 					"id": "gyyd",
-					"name": "양도"
+					"name": "양도",
+					"categories":[
+						"양도"
+						]
 				},
 				{
 					"id": "jyhb",
-					"name": "해변가"
+					"name": "해변가",
+					"categories":[
+						"해변"
+						]
 				},
 				{
 					"id": "jyhb2",
-					"name": "요청"
+					"name": "요청",
+					"categories":[
+						"요청"
+						]
 				}
 			]
 		},
@@ -204,7 +294,13 @@
 			"boards": [
 				{
 					"id": "gmsb",
-					"name": "게천뮤직"
+					"name": "게천뮤직",
+					"categories":[
+						"KPOP",
+						"JPOP",
+						"POP",
+						"추천음악"
+						]
 				}
 			]
 		},
@@ -214,7 +310,10 @@
 			"boards": [
 				{
 					"id": "sing",
-					"name": "회원노래"
+					"name": "회원노래",
+					"categories":[
+						"회원노래"
+						]
 				}
 			]
 		},
@@ -224,7 +323,11 @@
 			"boards": [
 				{
 					"id": "gjdb",
-					"name": "게잡직딩반"
+					"name": "게잡직딩반",
+					"categories":[
+						"잡담",
+						"기타"
+						]
 				}
 			]
 		},
@@ -234,7 +337,13 @@
 			"boards": [
 				{
 					"id": "gjmt2",
-					"name": "게잡멋쟁이"
+					"name": "게잡멋쟁이",
+					"categories":[
+						"미용",
+						"패션",
+						"몸매",
+						"기타"
+						]
 				}
 			]
 		},
@@ -244,7 +353,14 @@
 			"boards": [
 				{
 					"id": "jdsts2",
-					"name": "게잡스포츠"
+					"name": "게잡스포츠",
+					"categories":[
+						"야구",
+						"축구",
+						"농구",
+						"배구",
+						"기타"
+						]
 				}
 			]
 		},
@@ -254,7 +370,11 @@
 			"boards": [
 				{
 					"id": "gjp2",
-					"name": "게잡 JPStar"
+					"name": "게잡 JPStar",
+					"categories":[
+						"잡담",
+						"기타"
+						]
 				}
 			]
 		},
@@ -264,39 +384,68 @@
 			"boards": [
 				{
 					"id": "jdad2b",
-					"name": "게잡아이돌"
+					"name": "게잡아이돌",
+					"categories":[
+						"잡담",
+						"기타"
+						]
 				},
 				{
 					"id": "gdlw",
-					"name": "월드컵"
+					"name": "월드컵",
+					"categories":[
+						"월드컵"
+						]
 				},
 				{
 					"id": "jdadbday",
-					"name": "생축"
+					"name": "생축",
+					"categories":[
+						"생일축하"
+						]
 				},
 				{
 					"id": "gjin",
-					"name": "이벤트"
+					"name": "이벤트",
+					"categories":[
+						"이벤트"
+						]
 				},
 				{
 					"id": "gjitkj",
-					"name": "티좌"
+					"name": "티좌",
+					"categories":[
+						"티켓",
+						"좌석"
+						]
 				},
 				{
 					"id": "gjdyd",
-					"name": "양도"
+					"name": "양도",
+					"categories":[
+						"양도"
+						]
 				},
 				{
 					"id": "gjitp",
-					"name": "투표"
+					"name": "투표",
+					"categories":[
+						"게돌투표"
+						]
 				},
 				{
 					"id": "gdldl",
-					"name": "돌맹이"
+					"name": "돌멩이",
+					"categories":[
+						"돌멩이"
+						]
 				},
 				{
 					"id": "gjdll2",
-					"name": "요청"
+					"name": "요청",
+					"categories":[
+						"요청"
+						]
 				}
 			]
 		},
@@ -306,47 +455,86 @@
 			"boards": [
 				{
 					"id": "yjm",
-					"name": "연예잡담"
+					"name": "연예잡담",
+					"categories":[
+						"잡담",
+						"기타"
+						]
 				},
 				{
 					"id": "yjoin",
-					"name": "인사글"
+					"name": "인사글",
+					"categories":[
+						"가입인사"
+						]
 				},
 				{
 					"id": "yjsf",
-					"name": "연잡별빛"
+					"name": "연잡별빛",
+					"categories":[
+						"별빛"
+						]
 				},
 				{
 					"id": "yjsf2",
-					"name": "요청"
+					"name": "요청",
+					"categories":[
+						"요청"
+						]
 				},
 				{
 					"id": "yjm2b",
-					"name": "연잡햇빛"
+					"name": "연잡햇빛",
+					"categories":[
+						"햇빛"
+						]
 				},
 				{
 					"id": "yjyd",
-					"name": "양도"
+					"name": "양도",
+					"categories":[
+						"양도"
+						]
 				},
 				{
 					"id": "2AM",
-					"name": "2AM"
+					"name": "2AM",
+					"categories":[
+						"잡담",
+						"기타"
+						]
 				},
 				{
 					"id": "mbl",
-					"name": "엠블랙"
+					"name": "엠블랙",
+					"categories":[
+						"잡담",
+						"기타"
+						]
 				},
 				{
 					"id": "shinee",
-					"name": "샤이니"
+					"name": "샤이니",
+					"categories":[
+						"잡담",
+						"기타"
+						]
 				},
 				{
 					"id": "exo",
-					"name": "EXO"
+					"name": "EXO",
+					"categories":[
+						"잡담",
+						"기타"
+						]
 				},
 				{
 					"id": "inf",
-					"name": "인피니트"
+					"name": "인피니트",
+					"categories":[
+						"잡담",
+						"기타"
+						]
 				}
 			]
 		},
@@ -356,7 +544,11 @@
 			"boards": [
 				{
 					"id": "gjkm",
-					"name": "게잡의기묘"
+					"name": "게잡의기묘",
+					"categories":[
+						"기묘",
+						"기타"
+						]
 				}
 			]
 		},
@@ -366,7 +558,10 @@
 			"boards": [
 				{
 					"id": "ggn",
-					"name": "게잡오락실"
+					"name": "게잡오락실",
+					"categories":[
+						"FlashG"
+						]
 				}
 			]
 		}
